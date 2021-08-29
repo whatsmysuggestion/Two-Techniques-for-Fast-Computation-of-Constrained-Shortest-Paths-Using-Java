@@ -1,0 +1,6 @@
+load the database with datasource name:path
+double click the bat files
+select the destination in the source page
+click on the send button
+path is displayed on the destination node
+browse the file to be send
